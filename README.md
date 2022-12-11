@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EstebanCaro.
-- 👀 I am interested in creating a 2d video game and creating a mobile application.
-- 🌱 I’m currently learning javascript.
+- 👀 I am interested in creating mobile application.
+- 🌱 I’m currently learning javascript,python.
 - 💻learning in a self-taught way, I program when I want, I only carry out my personal projects.
 - 📫 how to reach me you can contact me through my portfolio:
 
